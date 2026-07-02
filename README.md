@@ -10,7 +10,7 @@ Passionate about creating high-quality software with modern technologies, clean 
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
@@ -34,14 +34,14 @@ Passionate about creating high-quality software with modern technologies, clean 
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm passionate about building modern software that combines clean architecture, intuitive user experiences, and scalable solutions. I enjoy working across the full stack while continuously exploring artificial intelligence, data-driven technologies, and new tools to create impactful digital products.
 
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -96,27 +96,6 @@ I'm passionate about building modern software that combines clean architecture, 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
----
-
-### 🤖 AI Developer Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-F97316?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hi2rii&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
