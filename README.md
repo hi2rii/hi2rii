@@ -13,7 +13,12 @@ Passionate about creating high-quality software with modern technologies, clean 
 ##  Connect With Me
 
 <p align="center">
+  
+<a href="https://hiba-boukhari-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+  
 <a href="https://github.com/hi2rii">
 <img src="https://img.shields.io/badge/GitHub-hi2rii-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
