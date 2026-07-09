@@ -34,6 +34,9 @@ Passionate about creating high-quality software with modern technologies, clean 
 <a href="https://discord.com/users/958522691818774528">
 <img src="https://img.shields.io/badge/Discord-HiBa-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+<a href="https://instagram.com/hi1ri">
+  <img src="https://img.shields.io/badge/Instagram-@hi1ri-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </p>
 
